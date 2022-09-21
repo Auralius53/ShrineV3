@@ -1,0 +1,138 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #023e8a;
+    box-shadow: #00193a 1px 3px 10px;
+  }
+  
+  li {
+    float: right;
+    font-family: 'JelleeBold'; 
+    text-shadow: #001024 1px 1px 3px;
+  }
+
+  #header {
+    font-family: 'JelleeBold'; 
+    color:white;
+    text-shadow: #001024 1px 1px 3px;
+    font-size: 35px;
+    margin-top: 30px;
+  }
+
+  center {
+    font-family: 'JelleeBold'; 
+    color:white;
+    text-shadow: #001024 1px 1px 3px;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #00357b;
+  }
+
+  body {
+    margin:0px;
+  }
+  
+  .container {
+    border-radius: 15px 50px 30px 5px;
+    box-shadow: #00193a 1px 3px 10px;
+    background: #191a57;
+    padding: 20px; 
+    width: 600px;
+    height: 190px; 
+    align-self: center;
+    margin: auto;
+    margin-top: 30px;
+    
+  }
+
+  h2 {
+    color: white;
+    font-size: 35px;
+    text-shadow: #001024 1px 1px 3px;
+    font-family: 'jelleeBold';
+  }
+
+  p {
+    color: white;
+    font-size: 15px;
+    font-family: 'jelleeBold';
+  }
+
+  #role {
+    color: #3a3a83;
+    font-size: 15px;
+    font-family: 'jelleeBold';
+  }
+
+  .container2 {
+    border-radius: 15px 50px 30px 5px;
+    box-shadow: #00193a 1px 3px 10px;
+    background: #191a57;
+    padding: 20px; 
+    width: 600px;
+    height: 220px; 
+    align-self: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 150px;
+  }
+
+  .container3 {
+    border-radius: 15px 50px 30px 5px;
+    box-shadow: #00193a 1px 3px 10px;
+    background: #191a57;
+    padding: 20px; 
+    width: 600px;
+    height: 225px; 
+    align-self: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 150px;
+  }
+
+  .container4 {
+    border-radius: 15px 50px 30px 5px;
+    box-shadow: #00193a 1px 3px 10px;
+    background: #191a57;
+    padding: 20px; 
+    width: 600px;
+    height: 136px; 
+    align-self: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 150px;
+  }
+
+  #burger {
+    color: white;
+    font-size: 25px;
+    text-shadow: #001024 1px 1px 3px;
+    font-family: 'jelleeBold';
+    margin: auto;
+    margin-left: 275px;
+  }
+
+  .containerlink {
+    border-radius: 15px 50px 30px 5px;
+    box-shadow: #00193a 1px 3px 10px;
+    background: #191a57;
+    padding: 20px; 
+    width: 600px;
+    height: 33px; 
+    align-self: center;
+    margin: auto;
+    margin-top: 30px;
+  }
